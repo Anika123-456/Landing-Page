@@ -1,2 +1,2 @@
-# Landing-Page
+# WebPage
 It is a responsive Web page develop by using HTML and CSS.
